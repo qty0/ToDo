@@ -1,4 +1,4 @@
-This app uses nodeJS and reactJS, before running please download and install node.js from the following link:
+This app uses nodeJS and reactJS, before running, if you don't have it already installed please download and install node.js from the following link and restart your computer!
 
 https://nodejs.org/en/
 
