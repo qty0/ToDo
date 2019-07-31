@@ -2,7 +2,7 @@ This app uses nodeJS and reactJS, before running, if you don't have it already i
 
 https://nodejs.org/en/
 
-After installing nodeJS please navigate to the folder in a terminal then excecute the following commands:
+After installing nodeJS please navigate to the folder in a terminal window (enter "cmd" to windows search bar) then excecute the following commands:
 npm i
 npm i axios
 npm i react-router-dom
