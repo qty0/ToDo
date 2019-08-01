@@ -4,9 +4,8 @@ export class about extends Component {
     render() {
         return (
             <React.Fragment>
-                <div style={contentStyle}>
                 <h1 style={titleStyle}>About Me</h1>
-            <p>hi there, this is a bad css style</p>
+            <p>hi there</p>
             </React.Fragment>
         )
     }
