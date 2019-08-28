@@ -4,8 +4,10 @@ export class about extends Component {
     render() {
         return (
             <React.Fragment>
-                <h1 style={titleStyle}>About Me</h1>
-            <p>hi there</p>
+                <h1 style={titleStyle}>An extra page</h1>
+            <p>Hello there,<br> 
+            This is an extra page, with some bad formatting.<br>
+               </p>
             </React.Fragment>
         )
     }
