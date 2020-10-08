@@ -2,6 +2,6 @@
 
 Since it does not have a backend it will not save data!
 
-Dependencies:
-  axios
-  react-router-dom
+Dependencies: </br>
+axios, </br>
+react-router-dom
