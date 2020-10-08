@@ -1,6 +1,7 @@
-If you don't have nodeJs:
-  https://nodejs.org/en/
+### Simple To-Do application using React
 
-Deps:
+Since it does not have a backend it will not save data!
+
+Dependencies:
   axios
   react-router-dom
